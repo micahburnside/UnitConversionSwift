@@ -1,4 +1,3 @@
-/*
  Copyright (c) [2023] [MicahBurnside]
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -18,7 +17,7 @@
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
- */
+ 
 
 # UnitConversionSwift
 This Swift Package is a collection of methods that implement the built in methods from the Units and Measurement API to perform unit conversion calculations with ease. 
