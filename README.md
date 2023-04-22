@@ -27,7 +27,7 @@ https://developer.apple.com/documentation/foundation/units_and_measurement
 ## Table of Contents
 
 - [Installation](#installation)
-- [Available Units](#available units)
+- [AvailableUnits](#availableunits)
 - [License](#license)
 
 ## Installation
