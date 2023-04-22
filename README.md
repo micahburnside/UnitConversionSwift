@@ -34,11 +34,11 @@ https://developer.apple.com/documentation/foundation/units_and_measurement
 
 Swift packages can be installed 
 
-###Package Manager
+### Package Manager
 
 You can use Swift Package Manager to install this package
 
-###Manually
+### Manually
 Add the following dependency to your Package.swift file:
 
 ```
@@ -53,7 +53,6 @@ bash
 Copy code
 $ swift build
 ```
-## Manually
 
 Alternatively, you can manually install this package by cloning the repository and running the following command:
 
@@ -62,6 +61,7 @@ $ git clone https://github.com/micahburnside/UnitConversionSwift.git
 $ cd package
 $ swift build
 ```
+
 ## Xcode
 If you prefer to use Xcode to build and run this package, follow these steps:
 
