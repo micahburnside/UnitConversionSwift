@@ -93,7 +93,6 @@ That's it! You should now be able to use this package in your Swift project.
     - UnitEnergy: A unit of measure for energy.
     - UnitPower: A unit of measure for power.
     - UnitTemperature: A unit of measure for temperature.
-    - UnitIlluminance: A unit of measure for illuminance.
 
 ## Electricity
     - UnitElectricCharge: A unit of measure for electric charge.
